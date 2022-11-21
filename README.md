@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LindseyLouv
 - 👀 I’m interested in Web development
 - 💞️ I’m currently a student at 0'clock in France
-- 🌱 I’m currently learning HTML / CSS / JavaScript & PHP
+- 🌱 HTML / CSS / JavaScript / PHP / Git / GitHub 
+- [My LinkedIn]([https://link-url-here.org](https://www.linkedin.com/in/lindsey-louv-688788256/))
 
 
 <!---
