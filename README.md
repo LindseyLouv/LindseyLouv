@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 💞️ Student at 0'clock in France
 - 🌱 HTML / CSS / JavaScript / PHP / Git / GitHub 
-- ➡️ https://www.linkedin.com/in/lindsey-louv-688788256/
+- ➡️ https://www.linkedin.com/in/lindsey-louv/
 
 
 
