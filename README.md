@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LindseyLouv
 - 👀 Developer Front-End (React) & Mobile (Flutter)
-- 🌱 React / FLutter / HTML / CSS / JavaScript / PHP / Dart / Git / GitHub 
+- 🌱 React / Flutter / HTML / CSS / JavaScript / PHP / Dart / Git / GitHub 
 - ➡️ https://www.linkedin.com/in/lindsey-louv/
 
 
