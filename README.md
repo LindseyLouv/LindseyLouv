@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LindseyLouv
-- 👀 Fullstack Developer
+- 👀 Fullstack Developer @Pappers
 - 🌱 Nuxt / Vue.js / React.js / Flutter / Node.js
 - ➡️ https://www.linkedin.com/in/lindsey-louv/
 
